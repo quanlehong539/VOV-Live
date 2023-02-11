@@ -1,48 +1,48 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
-#EXTINF:-1 tvg-id="vtc1" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/c37ffafd-7c9d-4905-800c-7c4751a69ee6/VTC1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC1
+#EXTINF:-1 tvg-id="vtc1" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/c37ffafd-7c9d-4905-800c-7c4751a69ee6/VTC1.png", VTC1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc2" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/41654c39-f705-4397-900e-2082bb3ff5b4/VTC2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2
+#EXTINF:-1 tvg-id="vtc2" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/41654c39-f705-4397-900e-2082bb3ff5b4/VTC2.png", VTC2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc3" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/13190053-0698-4961-aab2-fc818f1073f1/VTC3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc3hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC3
+#EXTINF:-1 tvg-id="vtc3" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/13190053-0698-4961-aab2-fc818f1073f1/VTC3.png", VTC3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc4" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/1176749e-606e-4548-916b-501b21ab60dc/VTC4.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC4
+#EXTINF:-1 tvg-id="vtc4" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/1176749e-606e-4548-916b-501b21ab60dc/VTC4.png", VTC4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc5" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/698315e1-47a6-4359-9526-ccecedfc2142/VTC5.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vtc5-hd/${start}/${offset}", VTC5
+#EXTINF:-1 tvg-id="vtc5" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/698315e1-47a6-4359-9526-ccecedfc2142/VTC5.png", VTC5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/vieon/vtc5-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc6" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/b540cbd4-3eac-4a0b-a40d-53c12d61ae47/VTC6.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vtc6/${start}/${offset}", VTC6
+#EXTINF:-1 tvg-id="vtc6" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/b540cbd4-3eac-4a0b-a40d-53c12d61ae47/VTC6.png", VTC6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/vieon/vtc6/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc7" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/cb4735b6-c8f0-4a4b-b652-48052c3c3f2f/VTC7.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}", VTC7
+#EXTINF:-1 tvg-id="vtc7" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/cb4735b6-c8f0-4a4b-b652-48052c3c3f2f/VTC7.png", VTC7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/vieon/vtc7-todaytv-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc8" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/a05801d0-15c0-410c-878c-61df7455a0db/VTC8.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc8_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC8
+#EXTINF:-1 tvg-id="vtc8" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/a05801d0-15c0-410c-878c-61df7455a0db/VTC8.png", VTC8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc9" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/077d0aaa-1515-42e0-89f0-9ee3f272486e/VTC9.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc9_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC9
+#EXTINF:-1 tvg-id="vtc9" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/077d0aaa-1515-42e0-89f0-9ee3f272486e/VTC9.png", VTC9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.fptplay.net/hda3/vtc9_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc10" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/9dca943b-bd27-4c04-9033-685da7b480f8/VTC10.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10
+#EXTINF:-1 tvg-id="vtc10" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/9dca943b-bd27-4c04-9033-685da7b480f8/VTC10.png", VTC10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.fptplay.net/hda2/vtc10hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc11" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/3baf4176-314c-4d30-af08-3bc27b0b72d4/VTC11.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
+#EXTINF:-1 tvg-id="vtc11" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/3baf4176-314c-4d30-af08-3bc27b0b72d4/VTC11.png", VTC11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/nethubtv/3676/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc12" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/d2ed3274-4189-425c-84bb-14f37228a654/VTC12.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC12
+#EXTINF:-1 tvg-id="vtc12" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/d2ed3274-4189-425c-84bb-14f37228a654/VTC12.png", VTC12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc13" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/8d941459-10fc-4aec-9547-b85e6361ffee/VTC13.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC13
+#EXTINF:-1 tvg-id="vtc13" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/8d941459-10fc-4aec-9547-b85e6361ffee/VTC13.png", VTC13
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc14" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/358253cb-196c-4148-a402-acd516ff134a/VTC14.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC14
+#EXTINF:-1 tvg-id="vtc14" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/358253cb-196c-4148-a402-acd516ff134a/VTC14.png", VTC14
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc16" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/ba8d4e15-9675-49dd-9dc1-2970ae85663b/VTC16.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vtc16-hd/${start}/${offset}", VTC16
+#EXTINF:-1 tvg-id="vtc16" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/ba8d4e15-9675-49dd-9dc1-2970ae85663b/VTC16.png", VTC16
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/vieon/vtc16-hd/playlist.m3u8
 
@@ -107,7 +107,7 @@ https://tv.kontumtv.vn/live/radio/radio.m3u8
 https://live.trt.com.vn/Radio-online/chunklist.m3u8
 
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://mixbox.live/assets/img/mixbox_white.ac549d2.png", MixBox
-https://d1v045aykfix0b.cloudfront.net/live/Mixbox_1.m3u8?key=fb7cb6e703d6b9e88ac913d6fbe48a5cc6bb9bb63592041dfb8a5ed021feb25b
+https://d1v045aykfix0b.cloudfront.net/live/Mixbox_1.m3u8?key=2766a4497582c8daccbbd150453d0948166f4347c47c021e8eece1c432d2de80
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.fptplay.net/hda3/pladio_1000.stream/chunklist.m3u8
