@@ -46,31 +46,31 @@ https://1117979683.vnns.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/vieon/vtc16-hd/playlist.m3u8
 
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732355.png.webp", VOV1
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787010.png.webp", VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w907302586.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732372.png.webp", VOV2
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787175.png.webp", VOV2
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/chunklist_w776016940.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732383.png.webp", VOV3
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787383.png.webp", VOV3
 https://str.vov.gov.vn/vovlive/vov3.sdp_aac/chunklist_w718658440.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732409.png.webp", VOV4 Tây Bắc
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788849.png.webp", VOV4 Tây Bắc
 http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732420.png.webp", VOV4 Tây Nguyên
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671789171.png.webp", VOV4 Tây Nguyên
 http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732465.png.webp", VOV4 ĐBSCL
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671789228.png.webp", VOV4 ĐBSCL
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732471.png.webp", VOV4 TPHCM
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671789275.png.webp", VOV4 TPHCM
 http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1610169362.png.webp", VOV5
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png.webp", VOV5
 https://str.vov.gov.vn/vovlive/vov5.sdp_aac/chunklist_w2030081967.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732575.png.webp", VOV English 24/7
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788129.png.webp", VOV English 24/7
 https://str.vov.gov.vn/vovlive/vov247vov5English.sdp_aac/chunklist_w1288402491.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732598.png.webp", VOV GT Hà Nội
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787624.png.webp", VOV GT Hà Nội
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732603.png.webp", VOV GT TPHCM
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787823.png.webp", VOV GT TPHCM
 https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732608.png.webp", VOV GT Mekong
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788606.png.webp", VOV GT Mekong
 https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732593.png.webp", VOV Sức Khỏe 89
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787926.png.webp", VOV Sức Khỏe 89
 http://media.kythuatvov.vn:7021/;stream/
 
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg/1200px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg.png", Hà Nội FM 90
