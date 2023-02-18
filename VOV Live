@@ -1,76 +1,76 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
-#EXTINF:-1 tvg-id="vtc1" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/c37ffafd-7c9d-4905-800c-7c4751a69ee6/VTC1.png", VTC1
+#EXTINF:-1 tvg-id="vtc1" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/zsh7kKFk_VTC1_logo_2018.svg.png", VTC1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc2" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/41654c39-f705-4397-900e-2082bb3ff5b4/VTC2.png", VTC2
+https://1117979683.vnns.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc2" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/5LtkVZxH_VTC2.png", VTC2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc3" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/13190053-0698-4961-aab2-fc818f1073f1/VTC3.png", VTC3
+https://1117979683.vnns.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc3" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/7KUzwk9y_VTC3.png", VTC3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc4" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/1176749e-606e-4548-916b-501b21ab60dc/VTC4.png", VTC4
+https://1117979683.vnns.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc4" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/G292Zztq_VTC4.png", VTC4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc5" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/698315e1-47a6-4359-9526-ccecedfc2142/VTC5.png", VTC5
+https://1117979683.vnns.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc5" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/sF6hsIid_VTC5.png", VTC5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/vieon/vtc5-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc6" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/b540cbd4-3eac-4a0b-a40d-53c12d61ae47/VTC6.png", VTC6
+#EXTINF:-1 tvg-id="vtc6" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/2UjlaaEI_VTC6.png", VTC6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/vieon/vtc6/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc7" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/cb4735b6-c8f0-4a4b-b652-48052c3c3f2f/VTC7.png", VTC7
+#EXTINF:-1 tvg-id="vtc7" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/v9p4MuZs_VTC7.png", VTC7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/vieon/vtc7-todaytv-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc8" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/a05801d0-15c0-410c-878c-61df7455a0db/VTC8.png", VTC8
+#EXTINF:-1 tvg-id="vtc8" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/rRUAlnuB_VTC8.png", VTC8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc9" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/077d0aaa-1515-42e0-89f0-9ee3f272486e/VTC9.png", VTC9
+https://1117979683.vnns.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc9" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/O7AnyspZ_VTC9.png", VTC9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.fptplay.net/hda3/vtc9_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc10" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/9dca943b-bd27-4c04-9033-685da7b480f8/VTC10.png", VTC10
+https://1117979683.vnns.net/hda3/vtc9_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc10" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/BdovMao2_VTC10.png", VTC10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.fptplay.net/hda2/vtc10hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc11" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/3baf4176-314c-4d30-af08-3bc27b0b72d4/VTC11.png", VTC11
+https://1117979683.vnns.net/hda2/vtc10hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc11" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/huvxhSvu_VTC11.png", VTC11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/nethubtv/3676/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc12" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/d2ed3274-4189-425c-84bb-14f37228a654/VTC12.png", VTC12
+#EXTINF:-1 tvg-id="vtc12" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/OqwXmrN3_VTC12.png", VTC12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc13" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/8d941459-10fc-4aec-9547-b85e6361ffee/VTC13.png", VTC13
+https://1117979683.vnns.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc13" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/m6weJ6jE_VTC13.png", VTC13
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc14" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/358253cb-196c-4148-a402-acd516ff134a/VTC14.png", VTC14
+https://1117979683.vnns.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc14" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/TA4L8Dsc_VTC14.png", VTC14
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc16" group-title="TH SỐ VTC" tvg-logo="https://nds-static.vtc.gov.vn/category/ba8d4e15-9675-49dd-9dc1-2970ae85663b/VTC16.png", VTC16
+https://1117979683.vnns.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc16" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/1Ik4uGlz_VTC16.png", VTC16
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/vieon/vtc16-hd/playlist.m3u8
 
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787010.png", VOV1
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732355.png.webp", VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w907302586.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787175.png", VOV2
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732372.png.webp", VOV2
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/chunklist_w776016940.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787383.png", VOV3
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732383.png.webp", VOV3
 https://str.vov.gov.vn/vovlive/vov3.sdp_aac/chunklist_w718658440.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788849.png", VOV4 Tây Bắc
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732409.png.webp", VOV4 Tây Bắc
 http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671789171.png", VOV4 Tây Nguyên
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732420.png.webp", VOV4 Tây Nguyên
 http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671789228.png", VOV4 ĐBSCL
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732465.png.webp", VOV4 ĐBSCL
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671789275.png", VOV4 TPHCM
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732471.png.webp", VOV4 TPHCM
 http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png", VOV5
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1610169362.png.webp", VOV5
 https://str.vov.gov.vn/vovlive/vov5.sdp_aac/chunklist_w2030081967.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788129.png", VOV English 24/7
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732575.png.webp", VOV English 24/7
 https://str.vov.gov.vn/vovlive/vov247vov5English.sdp_aac/chunklist_w1288402491.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787624.png", VOV GT Hà Nội
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732598.png.webp", VOV GT Hà Nội
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787823.png", VOV GT TPHCM
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732603.png.webp", VOV GT TPHCM
 https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788606.png", VOV GT Mekong
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732608.png.webp", VOV GT Mekong
 https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787926.png", VOV Sức Khỏe 89
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="http://vovmedia.vn/upload/1609732593.png.webp", VOV Sức Khỏe 89
 http://media.kythuatvov.vn:7021/;stream/
 
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg/1200px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg.png", Hà Nội FM 90
@@ -110,7 +110,7 @@ https://live.trt.com.vn/Radio-online/chunklist.m3u8
 https://d1v045aykfix0b.cloudfront.net/live/Mixbox_1.m3u8?key=a436a44cab817ed3af0f23666b646485b063b42ac1ca931a901c6bfada2f2998
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.fptplay.net/hda3/pladio_1000.stream/chunklist.m3u8
+https://1117979683.vnns.net/hda3/pladio_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zadn.vn/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg", Zing MP3 Chạm
 https://vnno-pt-5-tf-multi-playlist-zmp3.zmdcdn.me/Ok1SSsyycZY/zhls/playback-realtime/very-low/db68d4afe8ea01b458fb/very-low.m3u8
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zadn.vn/avatars/1/4/6/b/146b49d11cc9b3bc591823bfedb8bce2.jpg", Zing MP3 Vpop
@@ -126,7 +126,7 @@ https://vnno-zn-1-tf-multi-playlist-zmp3.zmdcdn.me/IOohJIUxDcs/zhls/playback-rea
 
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="http://youtv.vn/images/logo.png", YouTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
+https://1117979683.vnns.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://pbs.twimg.com/media/Fa6qTDcaIAECF-Z?format=png", SCTV22
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/BTV5.png/revision/latest?cb=20211207102746&path-prefix=vi", BTV5
@@ -135,10 +135,10 @@ https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logoantv.png", ANTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+https://1117979683.vnns.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/QPVN_2013.png/revision/latest?cb=20220121034022&path-prefix=vi", QPVN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+https://1117979683.vnns.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://pbs.twimg.com/media/Fa6_BNjaMAU9YYO?format=png", Nhân Dân TV
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1935301625.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://static.mediacdn.vn/vovTV/web_images/logovov02112020_nobg.png", VOV TV
