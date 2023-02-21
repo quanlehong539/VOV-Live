@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="vtc1" group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/zsh7kKFk_VTC1_logo_2018.svg.png", VTC1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -107,7 +107,7 @@ https://tv.kontumtv.vn/live/radio/radio.m3u8
 https://live.trt.com.vn/Radio-online/chunklist.m3u8
 
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://mixbox.live/assets/img/mixbox_white.ac549d2.png", MixBox
-https://d1v045aykfix0b.cloudfront.net/live/Mixbox_1.m3u8?key=a436a44cab817ed3af0f23666b646485b063b42ac1ca931a901c6bfada2f2998
+https://d1v045aykfix0b.cloudfront.net/live/Mixbox_1.m3u8?key=ec558529279367353b5dd45455614f8e2d0752549cc532a5621d9c81857f7dac
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://1117979683.vnns.net/hda3/pladio_1000.stream/chunklist.m3u8
