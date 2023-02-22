@@ -131,15 +131,15 @@ https://1117979683.vnns.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/BTV5.png/revision/latest?cb=20211207102746&path-prefix=vi", BTV5
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/VNews.png/revision/latest?cb=20201020100923&path-prefix=vi", TTXVN
+#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://vnews.gov.vn/img/vnews-logo_2.png", TTXVN
 https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logoantv.png", ANTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://1117979683.vnns.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/QPVN_2013.png/revision/latest?cb=20220121034022&path-prefix=vi", QPVN
+#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png", QPVN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://1117979683.vnns.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://pbs.twimg.com/media/Fa6_BNjaMAU9YYO?format=png", Nhân Dân TV
+#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png", Nhân Dân TV
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1935301625.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://static.mediacdn.vn/vovTV/web_images/logovov02112020_nobg.png", VOV TV
 http://103.90.220.236/vovlive/tv1live.m3u8
