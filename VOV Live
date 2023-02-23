@@ -107,7 +107,7 @@ https://tv.kontumtv.vn/live/radio/radio.m3u8
 https://live.trt.com.vn/Radio-online/chunklist.m3u8
 
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://mixbox.live/assets/img/mixbox_white.ac549d2.png", MixBox
-https://d1v045aykfix0b.cloudfront.net/live/Mixbox_1.m3u8?key=7f6d7b3c4b4e6b52630f68ae0d439f2be6b783fad4baa121307423c62b7648f2
+https://d1v045aykfix0b.cloudfront.net/live/Mixbox_1.m3u8?key=2430941777b84641da83ac40c9666d20058d506a367b17546df6a2efce34be30
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://1117979683.vnns.net/hda3/pladio_1000.stream/chunklist.m3u8
