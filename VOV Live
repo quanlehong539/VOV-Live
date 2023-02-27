@@ -2,49 +2,49 @@
 
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/zsh7kKFk_VTC1_logo_2018.svg.png", VTC1
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/5LtkVZxH_VTC2.png", VTC2
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/7KUzwk9y_VTC3.png", VTC3
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/G292Zztq_VTC4.png", VTC4
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/sF6hsIid_VTC5.png", VTC5
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/2UjlaaEI_VTC6.png", VTC6
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/v9p4MuZs_VTC7.png", VTC7
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/rRUAlnuB_VTC8.png", VTC8
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/O7AnyspZ_VTC9.png", VTC9
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/hda3/vtc9_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda3/vtc9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/BdovMao2_VTC10.png", VTC10
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/hda2/vtc10hd_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda2/vtc10hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/huvxhSvu_VTC11.png", VTC11
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/OqwXmrN3_VTC12.png", VTC12
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/m6weJ6jE_VTC13.png", VTC13
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/TA4L8Dsc_VTC14.png", VTC14
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/1Ik4uGlz_VTC16.png", VTC16
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787010.png.webp", VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w907302586.m3u8
@@ -94,9 +94,9 @@ http://drtdnglive.e49a7c38.cdnviet.com/liveradio/chunklist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png?x87496", Cần Thơ FM 97.3Mhz
 https://tv.tchgroup.vn/live/radio/playlist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="http://img.btv.org.vn:81/upload/vod/10112016/1478747759_kenhbtvRadiogif.gif", Bình Dương FM 92.5Mhz
-https://api.vthanhtivi.pw/v2/getlink/dp/btvradio/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/dp/btvradio/playlist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://thvl.vn/wp-content/themes/thvl/imgs/logo3.png", Vĩnh Long FM 90.2Mhz
-https://api.vthanhtivi.pw/v2/getlink/dp/thvlradio/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/dp/thvlradio/playlist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://media.baoquangninh.com.vn/upload/files/logo/logotrangchu4.png", QNR1 - Quảng Ninh FM 97.8Mhz
 http://103.90.220.236/qtvlive/qnr1.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://media.baoquangninh.com.vn/upload/files/logo/logotrangchu3.png", QNR2 - Quảng Ninh FM 94.7Mhz
@@ -110,7 +110,7 @@ https://live.trt.com.vn/Radio-online/chunklist.m3u8
 https://d1v045aykfix0b.cloudfront.net/live/Mixbox_1.m3u8?key=a314219fb252c909d61ef5f30805b60d4de5a1bda00184889d023ba51eb1c2a0
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/hda3/pladio_1000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/hda3/pladio_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zadn.vn/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg", Zing MP3 Chạm
 https://vnno-pt-5-tf-multi-playlist-zmp3.zmdcdn.me/Ok1SSsyycZY/zhls/playback-realtime/very-low/db68d4afe8ea01b458fb/very-low.m3u8
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zadn.vn/avatars/1/4/6/b/146b49d11cc9b3bc591823bfedb8bce2.jpg", Zing MP3 Vpop
@@ -126,22 +126,22 @@ https://vnno-zn-1-tf-multi-playlist-zmp3.zmdcdn.me/IOohJIUxDcs/zhls/playback-rea
 
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="http://youtv.vn/images/logo.png", YouTV
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/1920px-HTV1.png", HTV1
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png", HTV Key
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://vnews.gov.vn/img/vnews-logo_2.png", TTXVN
 #EXTVLCOPT:http-user-agent=VOVLive
-https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
+https://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logoantv.png", ANTV
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png", QPVN
 #EXTVLCOPT:http-user-agent=VOVLive
-https://1117979683.vnns.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png", Nhân Dân TV
 #EXTVLCOPT:http-user-agent=VOVLive
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1935301625.m3u8
