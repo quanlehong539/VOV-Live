@@ -127,12 +127,12 @@ https://vnno-zn-1-tf-multi-playlist-zmp3.zmdcdn.me/IOohJIUxDcs/zhls/playback-rea
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="http://youtv.vn/images/logo.png", YouTV
 #EXTVLCOPT:http-user-agent=VOVLive
 https://1117979683.vnns.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://pbs.twimg.com/media/Fa6qTDcaIAECF-Z?format=png", HTV1
+#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/1920px-HTV1.png", HTV1
 #EXTVLCOPT:http-user-agent=VOVLive
-https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/BTV5.png/revision/latest?cb=20211207102746&path-prefix=vi", HTV Key
+https://1117979683.vnns.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png", HTV Key
 #EXTVLCOPT:http-user-agent=VOVLive
-https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+https://1117979683.vnns.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://vnews.gov.vn/img/vnews-logo_2.png", TTXVN
 #EXTVLCOPT:http-user-agent=VOVLive
 https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
