@@ -77,13 +77,13 @@ http://media.kythuatvov.vn:7021/;stream/
 https://1028513096.vnns.net/fm90/chunks.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg/1200px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg.png", Hà Nội FM 96
 https://1028513096.vnns.net/fm96/chunks.m3u8
-#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://radio.voh.com.vn/assets/images/logo_v3.png,qv=c5ebe624f737c3c2864964f833d1310d.pagespeed.ce.4kprPK4Lia.png", VOH AM 610Khz
+#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://radio.voh.com.vn/assets/images/logo_v3.png", VOH AM 610Khz
 https://strmx.voh.com.vn/radio/channel2/playlist.m3u8
-#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://radio.voh.com.vn/assets/images/logo_v3.png,qv=c5ebe624f737c3c2864964f833d1310d.pagespeed.ce.4kprPK4Lia.png", VOH FM 87.7Mhz
+#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://radio.voh.com.vn/assets/images/logo_v3.png", VOH FM 87.7Mhz
 https://strmx.voh.com.vn/live/channel5/playlist.m3u8
-#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://radio.voh.com.vn/assets/images/logo_v3.png,qv=c5ebe624f737c3c2864964f833d1310d.pagespeed.ce.4kprPK4Lia.png", VOH FM 95.6Mhz
+#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://radio.voh.com.vn/assets/images/logo_v3.png", VOH FM 95.6Mhz
 https://strmx.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://radio.voh.com.vn/assets/images/logo_v3.png,qv=c5ebe624f737c3c2864964f833d1310d.pagespeed.ce.4kprPK4Lia.png", VOH FM 99.9Mhz
+#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://radio.voh.com.vn/assets/images/logo_v3.png", VOH FM 99.9Mhz
 https://strmx.voh.com.vn/radio/channel3/playlist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/THP_logo.svg/100px-THP_logo.svg.png", Hải Phòng FM 93.7Mhz
 https://live.thhp.vn/937/index.m3u8?1
