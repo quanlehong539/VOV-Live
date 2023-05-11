@@ -99,9 +99,9 @@ https://tv.tchgroup.vn/live/radio/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/dp/btvradio/playlist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://thvl.vn/wp-content/themes/thvl/imgs/logo3.png", Vĩnh Long FM 90.2Mhz
 https://code.vthanhtivi.pw/getlink/dp/thvlradio/playlist.m3u8
-#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://media.baoquangninh.com.vn/upload/files/logo/logotrangchu4.png", QNR1 - Quảng Ninh FM 97.8Mhz
+#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu4.png", QNR1 - Quảng Ninh FM 97.8Mhz
 http://103.90.220.236/qtvlive/qnr1.m3u8
-#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://media.baoquangninh.com.vn/upload/files/logo/logotrangchu3.png", QNR2 - Quảng Ninh FM 94.7Mhz
+#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu3.png", QNR2 - Quảng Ninh FM 94.7Mhz
 http://103.90.220.236/qtvlive/qnr2.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://kontumtv.vn/wp-content/themes/kontum/imgs/big_logo.png", Kon Tum FM 95.1Mhz
 https://tv.kontumtv.vn/live/radio/radio.m3u8
