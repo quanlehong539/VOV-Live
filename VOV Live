@@ -90,9 +90,9 @@ https://strmx.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://radio.voh.com.vn/assets/images/logo_v3.png", VOH FM 99.9Mhz
 https://strmx.voh.com.vn/radio/channel3/playlist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/THP_logo.svg/100px-THP_logo.svg.png", Hải Phòng FM 93.7Mhz
-https://live.thhp.vn/937/index.m3u8?1
+https://live.thhp.vn/937/index.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/THP_logo.svg/100px-THP_logo.svg.png", Hải Phòng FM 103.2Mhz
-https://live.thhp.vn/radio/102/index.m3u8?1
+https://live.thhp.vn/radio/102/index.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="http://img.btv.org.vn:81/upload/vod/10112016/1478747759_kenhbtvRadiogif.gif", Bình Dương FM 92.5Mhz
 https://code.vthanhtivi.pw/getlink/dp/btvradio/playlist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://thvl.vn/wp-content/themes/thvl/imgs/logo3.png", Vĩnh Long FM 90.2Mhz
