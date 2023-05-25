@@ -142,6 +142,9 @@ https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png", Nhân Dân TV
 #EXTVLCOPT:http-user-agent=VOVLive
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
+#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Logo_qh.png/120px-Logo_qh.png", Quốc Hội TV
+#EXTVLCOPT:http-user-agent=VOVLive
+https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://static.mediacdn.vn/vovTV/web_images/logovov02112020_nobg.png", VOV TV
 #EXTVLCOPT:http-user-agent=VOVLive
 https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8?
