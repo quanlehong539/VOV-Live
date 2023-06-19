@@ -106,8 +106,6 @@ https://tv.kontumtv.vn/live/radio/radio.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://trt.com.vn/frontend/home/images/bg_radio.jpg", Thừa Thiên Huế FM 93
 https://live.trt.com.vn/Radio-online/chunklist.m3u8
 
-#EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2d/JoyFM_logo.png/revision/latest?cb=20210923115338&path-prefix=vi", JoyFM
-https://hqth.me/joyfm
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
 #EXTVLCOPT:http-user-agent=VOVLive
 https://livecdn.fptplay.net/hda3/pladio_1000.stream/chunklist.m3u8
@@ -127,6 +125,8 @@ https://multi-playlist-zmp3.zmdcdn.me/Itsn5VCb5Uo/zhls/playback-realtime/4f2980e
 https://multi-playlist-zmp3.zmdcdn.me/94rxZ-Dfzro/zhls/playback-realtime/ff294ded71a898f6c1b9/index.m3u8
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg", Zing MP3 USUK
 https://multi-playlist-zmp3.zmdcdn.me/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
+#EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2d/JoyFM_logo.png/revision/latest?cb=20210923115338&path-prefix=vi", JoyFM
+https://hqth.me/joyfm
 
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/1920px-HTV1.png", HTV1
 https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
