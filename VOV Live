@@ -79,7 +79,7 @@ http://103.90.220.236/qtvlive/qnr1.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu3.png", QNR2 - Quảng Ninh FM 94.7Mhz
 http://103.90.220.236/qtvlive/qnr2.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://thvl.vn/wp-content/themes/thvl/imgs/logo3.png", Vĩnh Long FM 90.2Mhz
-https://code.vthanhtivi.pw/getlink/dp/thvlradio/playlist.m3u8
+https://code.hqth.xyz/getlink/dp/thvlradio/playlist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://kontumtv.vn/wp-content/themes/kontum/imgs/big_logo.png", Kon Tum FM 95.1Mhz
 https://tv.kontumtv.vn/live/radio/radio.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://trt.com.vn/frontend/home/images/bg_radio.jpg", Thừa Thiên Huế FM 93
@@ -87,7 +87,7 @@ https://live.trt.com.vn/Radio-online/chunklist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://baobinhphuoc.com.vn/upload/files/logo/audio_poster.jpg", Bình Phước FM 89.4Mhz
 https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="http://img.btv.org.vn:81/upload/vod/10112016/1478747759_kenhbtvRadiogif.gif", Bình Dương FM 92.5Mhz
-https://code.vthanhtivi.pw/getlink/dp/btvradio/playlist.m3u8
+https://code.hqth.xyz/getlink/dp/btvradio/playlist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="http://gialaitv.vn/data_news/images/audio12.gif", Gia Lai FM 102Mhz
 http://113.161.25.3:8134/hls/radio/radio.m3u8
 
@@ -113,7 +113,7 @@ http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3
 http://live.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/1920px-HTV1.png", HTV1 TP.HCM
-https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
+https://code.hqth.xyz/getlink/htv/2631/playlist.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/hanoitv1_vdsl.png", HTV1 Hà Nội
 https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest/scale-to-width-down/1000?cb=20220410232326&path-prefix=vi", THVL1
