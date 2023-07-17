@@ -110,12 +110,12 @@ https://multi-playlist-zmp3.zmdcdn.me/RckDo1XPsU4/zhls/playback-realtime/111c87d
 
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
+#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png", VTV2
+http://live.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3
 http://live.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/1920px-HTV1.png", HTV1 TP.HCM
+#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/1920px-HTV1.png", HTV1
 https://code.hqth.xyz/getlink/htv/2631/playlist.m3u8
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/hanoitv1_vdsl.png", HTV1 Hà Nội
-https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest/scale-to-width-down/1000?cb=20220410232326&path-prefix=vi", THVL1
 http://live.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://vnews.gov.vn/img/vnews-logo_2.png", TTXVN
