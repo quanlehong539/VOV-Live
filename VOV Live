@@ -59,8 +59,6 @@ https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist.m3u8
 https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist.m3u8
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788606.png", VOV Giao thông Mekong
 https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787926.png", VOV Sức khỏe FM89
-https://stream.vovmedia.vn/fm89
 
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg/1200px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg.png", Hà Nội FM 90
 https://cecex9g5cpliv.vcdn.cloud/audio/fm90/chunklist.m3u8
@@ -74,20 +72,12 @@ https://strmx.voh.com.vn/live/channel5/playlist.m3u8
 https://strmx.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://radio.voh.com.vn/assets/images/logo_v3.png", VOH FM 99.9Mhz
 https://strmx.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu4.png", QNR1 - Quảng Ninh FM 97.8Mhz
-http://103.90.220.236/qtvlive/qnr1.m3u8
-#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu3.png", QNR2 - Quảng Ninh FM 94.7Mhz
-http://103.90.220.236/qtvlive/qnr2.m3u8
-#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://thvl.vn/wp-content/themes/thvl/imgs/logo3.png", Vĩnh Long FM 90.2Mhz
-https://code.hqth.xyz/getlink/dp/thvlradio/playlist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://kontumtv.vn/wp-content/themes/kontum/imgs/big_logo.png", Kon Tum FM 95.1Mhz
 https://tv.kontumtv.vn/live/radio/radio.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://trt.com.vn/frontend/home/images/bg_radio.jpg", Thừa Thiên Huế FM 93
 https://live.trt.com.vn/Radio-online/chunklist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://baobinhphuoc.com.vn/upload/files/logo/audio_poster.jpg", Bình Phước FM 89.4Mhz
 https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
-#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="http://img.btv.org.vn:81/upload/vod/10112016/1478747759_kenhbtvRadiogif.gif", Bình Dương FM 92.5Mhz
-https://code.hqth.xyz/getlink/dp/btvradio/playlist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="http://gialaitv.vn/data_news/images/audio12.gif", Gia Lai FM 102Mhz
 http://113.161.25.3:8134/hls/radio/radio.m3u8
 
@@ -107,6 +97,20 @@ https://multi-playlist-zmp3.zmdcdn.me/Itsn5VCb5Uo/zhls/playback-realtime/4f2980e
 https://multi-playlist-zmp3.zmdcdn.me/94rxZ-Dfzro/zhls/playback-realtime/ff294ded71a898f6c1b9/index.m3u8
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg", Zing MP3 USUK
 https://multi-playlist-zmp3.zmdcdn.me/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
+#EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQucnHqwsMogEEemVubw/image/", M Radio Việt Nam
+https://stream.zeno.fm/4q7y9hvkp2zuv
+#EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQoL-YpAoMogEEemVubw/image/", Cải Lương Việt Nam
+https://stream.zeno.fm/0trm6wrnga0uv
+#EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQ7brTsQgMogEEemVubw/image/", Radio Nhạc Vàng Xưa
+https://stream.zeno.fm/x2z45v7d84zuv
+#EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQidjS_wkMogEEemVubw/image/", Radio DJ
+https://stream.zeno.fm/ehbutdfccm0uv
+#EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQiavcsgsMogEEemVubw/image/", Radio Phật Giáo
+https://stream.zeno.fm/8456uy0bcm0uv
+#EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICw0ILTsQoMogEEemVubw/image/", Radio Nhạc Dân Ca
+https://stream.zeno.fm/a2dbs2tq1p8uv
+#EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg2_XVmgsMCxIOU3RhdGlvblByb2ZpbGUYgIDQi9zzhAgMogEEemVubw/image/", Radio Nhạc Xuân
+https://stream.zeno.fm/hvtxgd85rm0uv
 
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
@@ -114,8 +118,6 @@ http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 http://live.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3
 http://live.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/1920px-HTV1.png", HTV1
-https://code.hqth.xyz/getlink/htv/2631/playlist.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest/scale-to-width-down/1000?cb=20220410232326&path-prefix=vi", THVL1
 http://live.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://vnews.gov.vn/img/vnews-logo_2.png", TTXVN
@@ -128,6 +130,3 @@ http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Logo_qh.png/120px-Logo_qh.png", Quốc Hội TV
 http://live.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://static.mediacdn.vn/vovTV/web_images/logovov02112020_nobg.png", VOV TV
-#EXTVLCOPT:http-user-agent=VOVLive
-https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8?
