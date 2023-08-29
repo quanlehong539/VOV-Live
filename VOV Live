@@ -30,6 +30,8 @@ https://1117141481.vnns.net/VTC13/chunks.m3u8
 https://1117141481.vnns.net/VTC14/chunks.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/1Ik4uGlz_VTC16.png", VTC16
 https://1117141481.vnns.net/VTC16/chunks.m3u8
+#EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://hqth.me/vtc4klogo", VTC 4K
+http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
 
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787010.png", VOV1
 http://stream2.mobiradio.vn/vovradio/vov1.stream/playlist.m3u8
@@ -113,8 +115,6 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Logo_qh.png/120px-Logo_qh.png", Quốc Hội TV
 http://live.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
 
-#EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
-https://code.vthanhtivi.pw/getlink/fptplay/pladio/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/9/b/3/6/9b360620bb90cd4d5bb9ea4fda45d946.jpg", Xone Radio
 https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zmdcdn.me/cover/b/1/7/3/b17338c56d4a1505f2c4c412ee385041.jpg", Zing MP3 Chạm
