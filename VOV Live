@@ -30,8 +30,6 @@ https://1117141481.vnns.net/VTC13/chunks.m3u8
 https://1117141481.vnns.net/VTC14/chunks.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/1Ik4uGlz_VTC16.png", VTC16
 https://1117141481.vnns.net/VTC16/chunks.m3u8
-#EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://hqth.me/vtc4klogo", VTC 4K
-http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
 
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787010.png", VOV1
 http://stream2.mobiradio.vn/vovradio/vov1.stream/playlist.m3u8
@@ -62,18 +60,20 @@ https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist.m3u8
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788606.png", VOV Giao thông Mekong
 https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist.m3u8
 
-#EXTINF:-1 group-title="TH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/2560px-EBS_1TV_Logo.svg.png", EBS1
-https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="TH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/724px-EBS_2TV_Logo.svg.png", EBS2
-https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="TH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/EBS_English_logo.svg/2560px-EBS_English_logo.svg.png", EBS E
-https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="TH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/2560px-EBS_KIDS.svg.png", EBS Kids
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="TH HÀN QUỐC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png/revision/latest?cb=20180627174859", EBS+1
-https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="TH HÀN QUỐC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png/revision/latest?cb=20180627175021", EBS+2
-https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/1200px-KNN_logo.svg.png", 🇰🇷 KNN SBS
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MBC_%EA%B0%95%EC%9B%90%EC%98%81%EB%8F%99.svg/2560px-MBC_%EA%B0%95%EC%9B%90%EC%98%81%EB%8F%99.svg.png", 🇰🇷 MBC Gangwon
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103580398_438.png", 🇨🇳 CCTV2
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png", 🇨🇳 CCTV5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f2/Nippon_Television-Logo.svg/2560px-Nippon_Television-Logo.svg.png", 🇯🇵 Nippon TV
+http://203.162.235.41:16095/
+#EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://netlinkbroadcaster.com/image/logo/tvk.png", 🇰🇭 TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+#EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://netlinkbroadcaster.com/image/logo/tvk2.png", 🇰🇭 TVK2
+https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg/1200px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg.png", Hà Nội FM 90
 https://cecex9g5cpliv.vcdn.cloud/audio/fm90/chunklist.m3u8
