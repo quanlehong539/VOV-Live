@@ -32,11 +32,11 @@ https://1117141481.vnns.net/VTC14/chunks.m3u8
 https://1117141481.vnns.net/VTC16/chunks.m3u8
 
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787010.png", VOV1
-http://stream2.mobiradio.vn/vovradio/vov1.stream/playlist.m3u8
+http://media.kythuatvov.vn:7001/;stream/
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787175.png", VOV2
-http://stream2.mobiradio.vn/vovradio/vov2.stream/playlist.m3u8
+http://media.kythuatvov.vn:7003/;stream/
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787383.png", VOV3
-http://stream2.mobiradio.vn/vovradio/vov3.stream/playlist.m3u8
+http://media.kythuatvov.vn:7005/;stream/
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788849.png", VOV4 Tây Bắc
 https://stream.vovmedia.vn/vov4tb
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671789125.png", VOV4 Đông Bắc
@@ -44,10 +44,10 @@ https://stream.vovmedia.vn/vov4db
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788868.png", VOV4 Miền Trung
 https://stream.vovmedia.vn/vov4mt
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671789171.png", VOV4 Tây Nguyên
-https://stream.vovmedia.vn/vov4tn
+https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/chunklist.m3u8
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671789228.png", VOV4 ĐB Sông Cửu Long
 https://stream.vovmedia.vn/vov4dbscl
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671789275.png", VOV4 Hồ Chí Minh
+#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671789275.png", VOV4 TP Hồ Chí Minh
 https://stream.vovmedia.vn/vov4hcm
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png", VOV5
 https://stream.vovmedia.vn/vov5
@@ -99,9 +99,9 @@ https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
 http://113.161.25.3:8134/hls/radio/radio.m3u8
 
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
-http://stream.cvmtv.site/VTV1HD?token=live
+http://vtv.cvmtv.site/VTV1HD?token=live
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3
-http://stream.cvmtv.site/VTV3HD?token=live
+http://vtv.cvmtv.site/VTV3HD?token=live
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/HTV9Logomoi.png", HTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
