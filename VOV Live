@@ -37,22 +37,6 @@ http://media.kythuatvov.vn:7001/;stream/
 http://media.kythuatvov.vn:7003/;stream/
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787383.png", VOV3
 http://media.kythuatvov.vn:7005/;stream/
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788849.png", VOV4 Tây Bắc
-https://stream.vovmedia.vn/vov4tb
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671789125.png", VOV4 Đông Bắc
-https://stream.vovmedia.vn/vov4db
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788868.png", VOV4 Miền Trung
-https://stream.vovmedia.vn/vov4mt
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671789171.png", VOV4 Tây Nguyên
-https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/chunklist.m3u8
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671789228.png", VOV4 ĐB Sông Cửu Long
-https://stream.vovmedia.vn/vov4dbscl
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671789275.png", VOV4 TP Hồ Chí Minh
-https://stream.vovmedia.vn/vov4hcm
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png", VOV5
-https://stream.vovmedia.vn/vov5
-#EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671788129.png", VOV English 24/7
-https://stream.vovmedia.vn/vov247
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787624.png", VOV Giao thông Hà Nội
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist.m3u8
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787823.png", VOV Giao thông TP.HCM
@@ -74,8 +58,6 @@ http://203.162.235.41:15094/
 http://203.162.235.41:19098/
 #EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png", 🇯🇵 TV Asahi
 http://203.162.235.41:17097/
-#EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png", 🇹🇭 Thairath TV
-https://ctrl.laotv.la/live/THAIRATHTVHD/index.m3u8
 
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg/1200px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg.png", Hà Nội FM 90
 https://cecex9g5cpliv.vcdn.cloud/audio/fm90/chunklist.m3u8
@@ -98,10 +80,6 @@ https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="http://gialaitv.vn/data_news/images/audio12.gif", Gia Lai FM 102Mhz
 http://113.161.25.3:8134/hls/radio/radio.m3u8
 
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
-http://vtv.cvmtv.site/VTV1HD?token=live
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3
-http://vtv.cvmtv.site/VTV3HD?token=live
 #EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/HTV9Logomoi.png", HTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
