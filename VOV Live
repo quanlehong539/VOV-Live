@@ -22,17 +22,13 @@ https://1117141481.vnns.net/VTC9/chunks.m3u8
 https://1117141481.vnns.net/VTC10/chunks.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/huvxhSvu_VTC11.png", VTC11
 https://1117141481.vnns.net/VTC11/chunks.m3u8
-#EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/OqwXmrN3_VTC12.png", VTC12
-https://1117141481.vnns.net/VTC12/chunks.m3u8
-#EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/m6weJ6jE_VTC13.png", VTC13
-https://1117141481.vnns.net/VTC13/chunks.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/TA4L8Dsc_VTC14.png", VTC14
 https://1117141481.vnns.net/VTC14/chunks.m3u8
 #EXTINF:-1 group-title="TH SỐ VTC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/1Ik4uGlz_VTC16.png", VTC16
 https://1117141481.vnns.net/VTC16/chunks.m3u8
 
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787010.png", VOV1
-http://media.kythuatvov.vn:7001/;stream/
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist.m3u8
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787175.png", VOV2
 http://media.kythuatvov.vn:7003/;stream/
 #EXTINF:-1 group-title="PT QUỐC GIA" tvg-logo="https://foxxradio.com/upload/vi/1671787383.png", VOV3
@@ -46,18 +42,12 @@ https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist.m3u8
 
 #EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/1200px-KNN_logo.svg.png", 🇰🇷 KNN SBS
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MBC_%EA%B0%95%EC%9B%90%EC%98%81%EB%8F%99.svg/2560px-MBC_%EA%B0%95%EC%9B%90%EC%98%81%EB%8F%99.svg.png", 🇰🇷 MBC Gangwon
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/fqtakdlqrnmoduhafgcr", 🇰🇷 MBC Yeosu
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png", 🇨🇳 CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586530639_661.png", 🇨🇳 CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", 🇯🇵 Fuji TV
-http://203.162.235.41:15094/
-#EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png", 🇯🇵 TV Tokyo
-http://203.162.235.41:19098/
-#EXTINF:-1 group-title="TH CHÂU Á" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png", 🇯🇵 TV Asahi
-http://203.162.235.41:17097/
 
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg/1200px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg.png", Hà Nội FM 90
 https://cecex9g5cpliv.vcdn.cloud/audio/fm90/chunklist.m3u8
@@ -77,40 +67,33 @@ https://tv.kontumtv.vn/live/radio/radio.m3u8
 https://live.trt.com.vn/Radio-online/chunklist.m3u8
 #EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="https://baobinhphuoc.com.vn/upload/files/logo/audio_poster.jpg", Bình Phước FM 89.4Mhz
 https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
-#EXTINF:-1 group-title="PT ĐỊA PHƯƠNG" tvg-logo="http://gialaitv.vn/data_news/images/audio12.gif", Gia Lai FM 102Mhz
-http://113.161.25.3:8134/hls/radio/radio.m3u8
 
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/HTV9Logomoi.png", HTV9
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest/scale-to-width-down/1000?cb=20220410232326&path-prefix=vi", THVL1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/thvl1-hd/playlist.m3u8
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://vnews.gov.vn/img/vnews-logo_2.png", TTXVN
+#EXTINF:-1 group-title="TH VIỆT NAM" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv1.png", VTV1
+https://ctrl.laotv.la/live/VTV1HD/index.m3u8
+#EXTINF:-1 group-title="TH VIỆT NAM" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv3.png", VTV3
+https://ctrl.laotv.la/live/VTV3/index.m3u8
+#EXTINF:-1 group-title="TH VIỆT NAM" tvg-logo="https://vnews.gov.vn/img/vnews-logo_2.png", TTXVN
 https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist.m3u8
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logoantv.png", ANTV
+#EXTINF:-1 group-title="TH VIỆT NAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logoantv.png", ANTV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png", QPVN
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/quoc-phong-hd/playlist.m3u8
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png", Nhân Dân TV
+#EXTINF:-1 group-title="TH VIỆT NAM" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png", Nhân Dân TV
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
-#EXTINF:-1 group-title="TH TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Logo_qh.png/120px-Logo_qh.png", Quốc Hội TV
-http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
+#EXTINF:-1 group-title="TH VIỆT NAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Logo_qh.png/120px-Logo_qh.png", Quốc Hội TV
+https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8
 
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/9/b/3/6/9b360620bb90cd4d5bb9ea4fda45d946.jpg", Xone Radio
-https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
+https://vnno-pt-2-tf-multi-playlist-zmp3.zmdcdn.me/rVRxDgLqxHo/zhls/playback-realtime/very-low/f9a40e7c3239db678228/very-low.m3u8
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zmdcdn.me/cover/b/1/7/3/b17338c56d4a1505f2c4c412ee385041.jpg", Zing MP3 Chạm
-https://multi-playlist-zmp3.zmdcdn.me/62YE6lXdY4w/zhls/playback-realtime/db68d4afe8ea01b458fb/index.m3u8
+https://vnno-vn-4-tf-multi-playlist-zmp3.zmdcdn.me/Ok1SSsyycZY/zhls/playback-realtime/very-low/db68d4afe8ea01b458fb/very-low.m3u8
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg", Zing MP3 Vpop
-https://multi-playlist-zmp3.zmdcdn.me/wTSwRIGOON0/zhls/playback-realtime/6eeb692c5569bc37e578/index.m3u8
+https://vnno-zn-13-tf-multi-playlist-zmp3.zmdcdn.me/8t3wW77ohJw/zhls/playback-realtime/very-low/6eeb692c5569bc37e578/very-low.m3u8
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg", Zing MP3 Acoustic
-https://multi-playlist-zmp3.zmdcdn.me/ktkT8IgzcQQ/zhls/playback-realtime/08aae96dd5283c766539/index.m3u8
+https://vnno-pt-6-tf-multi-playlist-zmp3.zmdcdn.me/9gnQ7EMlRVA/zhls/playback-realtime/very-low/08aae96dd5283c766539/very-low.m3u8
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/d/6/7/4/d6746d1bbff609111133449abb9e622b.jpg", Zing MP3 Bolero
-https://multi-playlist-zmp3.zmdcdn.me/BtRvAOtW5jk/zhls/playback-realtime/e3b9f87ec43b2d65742a/index.m3u8
+https://vnno-pt-6-tf-multi-playlist-zmp3.zmdcdn.me/oIWL6uZPN04/zhls/playback-realtime/very-low/e3b9f87ec43b2d65742a/very-low.m3u8
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/0/c/2/e/0c2ee7cb5ef72b5db673341864312a2a.jpg", Zing MP3 Rap Việt
-https://multi-playlist-zmp3.zmdcdn.me/Itsn5VCb5Uo/zhls/playback-realtime/4f2980eebcab55f50cba/index.m3u8
+https://vnno-vn-3-tf-multi-playlist-zmp3.zmdcdn.me/JIQ2n2AIW_Q/zhls/playback-realtime/very-low/4f2980eebcab55f50cba/very-low.m3u8
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/e/1/8/8/e1887a2c79f9d3d04984905cbf443a29.jpg", Zing MP3 Kpop
-https://multi-playlist-zmp3.zmdcdn.me/94rxZ-Dfzro/zhls/playback-realtime/ff294ded71a898f6c1b9/index.m3u8
+https://vnno-zn-13-tf-multi-playlist-zmp3.zmdcdn.me/LLZ37qgDO-o/zhls/playback-realtime/very-low/ff294ded71a898f6c1b9/very-low.m3u8
 #EXTINF:-1 group-title="PT GIẢI TRÍ" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg", Zing MP3 USUK
-https://multi-playlist-zmp3.zmdcdn.me/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
+https://vnno-zn-13-tf-multi-playlist-zmp3.zmdcdn.me/IOohJIUxDcs/zhls/playback-realtime/very-low/111c87d8bb9d52c30b8c/very-low.m3u8
