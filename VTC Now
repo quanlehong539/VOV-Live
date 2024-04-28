@@ -1,0 +1,69 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="vtc1" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1
+https://1236573804.pop.vnptcdn.com/vtc1-hd-abr/vtcnow/vtc1_hd_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc2" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png", VTC2
+https://1236573804.pop.vnptcdn.com/livevtcnow/VTC2/livevtcnow/VTC2_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png", VTC3
+https://1236573804.pop.vnptcdn.com/livevtcnow/VTC3/livevtcnow/VTC3_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png", VTC4
+https://1236573804.pop.vnptcdn.com/livevtcnow/VTC4/livevtcnow/VTC4_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png", VTC5
+https://1236573804.pop.vnptcdn.com/livevtcnow/VTC5/livevtcnow/VTC5_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png", VTC6
+https://1236573804.pop.vnptcdn.com/livevtcnow/VTC6/livevtcnow/VTC6_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png", VTC7
+https://1236573804.pop.vnptcdn.com/livevtcnow/VTC7/livevtcnow/VTC7_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc8" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png", VTC8
+https://1236573804.pop.vnptcdn.com/livevtcnow/VTC8/livevtcnow/VTC8_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc9hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png", VTC9
+https://1236573804.pop.vnptcdn.com/livevtcnow/VTC9/livevtcnow/VTC9_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc10" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png", VTC10
+https://1236573804.pop.vnptcdn.com/livevtcnow/VTC10/livevtcnow/VTC10_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc11" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png", VTC11
+https://1236573804.pop.vnptcdn.com/livevtcnow/VTC11/livevtcnow/VTC11_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc14hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png", VTC14
+https://1236573804.pop.vnptcdn.com/livevtcnow/VTC14/livevtcnow/VTC14_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc16" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png", VTC16
+https://1236573804.pop.vnptcdn.com/livevtcnow/VTC16/livevtcnow/VTC16_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="fashionhd" group-title="🌈 | Msky" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bloomberg" group-title="🌈 | Msky" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
+https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="dmax" group-title="🌈 | Msky" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+
+#EXTINF:-1 group-title="🌏 | Quốc tế" group-logo="https://hqth.me/4h9zd" tvg-logo="https://image.sbs.co.kr/sbs/common/sbs_sns_bnr_640x360.png", SBS
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png", MBC
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://image.xumo.com/v1/channels/channel/99991785/600x337.webp?type=channelTile", BeIN Sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://www.oopsnew.com/wp-content/uploads/2021/01/True-Premier-HD-1.jpg", True Premier Football 1
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://www.oopsnew.com/wp-content/uploads/2021/01/True-Premier-HD-2.jpg", True Premier Football 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://i.ytimg.com/vi/2XEz8wG2I9s/maxresdefault.jpg", Thairath TV
+https://ctrl.laotv.la/live/THAIRATHTVHD/index.m3u8
+#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://i.vimeocdn.com/video/560827526-9804beaf8342cb7bfa1b5b78ba7131e02da93434624c49fdde3e3290da25aea5-d_750x421.875", CCTV1
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://hqth.me/ltv3logo", LNTV3
+https://ctrl.laotv.la/live/LNTV3/index.m3u8
+#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://cia.lk/wp-content/uploads/2021/09/logo_aje_social.png", Al Jazeera English
+https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/6ffbc43c-98b3-42bf-956f-5b69800acb66/0.m3u8
+#EXTINF:-1 tvg-id="nhkworld" group-title="🌏 | Quốc tế" tvg-logo="https://i.vimeocdn.com/video/569541310-eab7f4fae9f42d0b92caca1ca21e02bb1421db591a211b3f6158e742c2e79754-d_750x421.875", NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2021/08/Tennis-Channel-continues-its-international-expansion-India.jpg", Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/03/14110209/Russia-Today-cube.jpg", Russia Today
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 group-title="📻 | Phát thanh" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png", VOH AM 610Khz
+https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+#EXTINF:-1 group-title="📻 | Phát thanh" tvg-logo="https://dug0nmhkbevod.vcdn.cloud/MAM/OVP/Image/Playlist/2022/11/04/logo/04112022110831/110832_z3846211079342_aa59839f019726c4b788c89d47e06ff5.jpg", Hà Nội FM 90
+http://14.162.146.90:8000/HANOI90
+#EXTINF:-1 group-title="📻 | Phát thanh" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkwAK2eT0Q5301RhS1ysWucgjQG9IHUQjlEPQho-LudlUPhZyCILzER-9IziMJFj13u8Nhnrn0L6_Px_D60jssiG426u8jxE0o_Jrukur5SP-CDxYm8YVPeMVFQm5tu2LQ91Q6duF6vQsgFmGvVrKzs1jFqvcEvR82dPqqrIwPzEa7pkgL6NSeqHfL9cYK/s1118/bandicam%202024-02-04%2018-28-15-042.jpg", LHQ Play
+https://stream.zeno.fm/vwofath8nz8tv
+#EXTINF:-1 group-title="📻 | Phát thanh" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUQJ845Cu3z-UG0c255pKr9PiFKlhvnhCDD5ammDwMnsywsf2LRdvXDWKrolzM2wy1OBwh_6gxFHhMszZok5nFXwncGWua_b-02HIR7qkwLg8uYAAjhu-OVch1u3aCJ4xok_g4JZcWys-1oh79_Xw9mS5roW7Sv1AbgLsInmXh__pKJ6ZNJ0JgvJRaVk-Z/s600/423542068_1306592243352566_6090991333920788466_n.jpg", NNT1709 Radio
+https://stream.zeno.fm/crwtkeidk9vuv
