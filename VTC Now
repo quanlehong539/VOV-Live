@@ -34,7 +34,7 @@ https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="dmax" group-title="🌈 | Msky" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
-#EXTINF:-1 group-title="🌏 | Quốc tế" group-logo="https://hqth.me/4h9zd" tvg-logo="https://image.sbs.co.kr/sbs/common/sbs_sns_bnr_640x360.png", SBS
+#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://image.sbs.co.kr/sbs/common/sbs_sns_bnr_640x360.png", SBS
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png", MBC
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
@@ -50,14 +50,10 @@ https://ctrl.laotv.la/live/THAIRATHTVHD/index.m3u8
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://hqth.me/ltv3logo", LNTV3
 https://ctrl.laotv.la/live/LNTV3/index.m3u8
-#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://cia.lk/wp-content/uploads/2021/09/logo_aje_social.png", Al Jazeera English
-https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/6ffbc43c-98b3-42bf-956f-5b69800acb66/0.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="🌏 | Quốc tế" tvg-logo="https://i.vimeocdn.com/video/569541310-eab7f4fae9f42d0b92caca1ca21e02bb1421db591a211b3f6158e742c2e79754-d_750x421.875", NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2021/08/Tennis-Channel-continues-its-international-expansion-India.jpg", Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="🌏 | Quốc tế" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/03/14110209/Russia-Today-cube.jpg", Russia Today
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 
 #EXTINF:-1 group-title="📻 | Phát thanh" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png", VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
